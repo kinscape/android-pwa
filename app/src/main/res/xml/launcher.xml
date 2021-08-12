@@ -5,7 +5,7 @@
     <!-- Your product logo -->
     <item>
         <bitmap
-            android:src="@mipmap/ic_launcher"
+            android:src="@mipmap/k_launcher"
             android:gravity="center"/>
     </item>
 </layer-list>
