@@ -97,7 +97,7 @@ public class UIManager {
 
             TypedValue typedValue = new TypedValue();
             Resources.Theme theme = activity.getTheme();
-            theme.resolveAttribute(R.attr.colorPrimary, typedValue, true);
+            theme.resolveAttribute(androidx.appcompat.R.attr.colorPrimary, typedValue, true);
             int color = typedValue.data;
 
             ActivityManager.TaskDescription description = new ActivityManager.TaskDescription(

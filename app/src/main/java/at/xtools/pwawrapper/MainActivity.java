@@ -2,8 +2,9 @@ package at.xtools.pwawrapper;
 
 import android.content.Intent;
 import android.net.Uri;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import at.xtools.pwawrapper.ui.UIManager;
 import at.xtools.pwawrapper.webview.WebViewHelper;
